@@ -1,0 +1,15 @@
+body {
+    background-size: cover;
+}
+
+#text_box {
+    width: 100x;
+    height: 75px;
+}
+
+canvas {
+    border: 2px black;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 10px 10px 10px purple;
+}
